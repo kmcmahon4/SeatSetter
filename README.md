@@ -1,5 +1,5 @@
 # SeatSetter
-A team project for COM 220. Seat Setter app intended for teachers to easily create a seating chart for their classes.
+ Seat Setter app intended for teachers to easily create a seating chart for their classes.
 
 Things I learned:
 
